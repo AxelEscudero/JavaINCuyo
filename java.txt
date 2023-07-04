@@ -1,0 +1,9 @@
+Axel Escudero
+¿Qué es Java?
+- Es un lenguaje de programación que sirve para crear programas informáticos.
+- Es uno de los lenguajes más populares.
+- Es multiplataforma y multiparadigma:
+- A pesar de que sea un lenguaje de programación orientada a objetos también
+soporta programación estructurada.
+¿Para que sirve? 
+Es un bloque de código que realiza una tarea específica y se ejecuta cuando es llamado. Las funciones pueden recibir datos como entrada (parámetros), procesar estos datos y devolver un resultado (valor de retorno).
